@@ -1,1 +1,1 @@
- const mpanyName = 'Scuber'
+ const companyName = 'Scuber'
