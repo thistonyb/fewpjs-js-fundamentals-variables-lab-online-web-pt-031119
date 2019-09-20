@@ -1,1 +1,1 @@
-let companyName = 'Scuber'
+ const mpanyName = 'Scuber'
